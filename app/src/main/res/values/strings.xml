@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyiTime</string>
+    <string name="Add">＋</string>
+    <string name="Back">←</string>
+    <string name="Enter">√</string>
+    <string name="edit_text_name">Anniversary,birthday,festival</string>
+    <string name="name">Name</string>
+    <string name="description_optional">Description(Optional)</string>
+    <string name="notes_or_quotes">Notes or quotes</string>
+    <string name="date">Date</string>
+    <string name="y">Y</string>
+    <string name="m">M</string>
+    <string name="d">D</string>
+    <string name="time">Time</string>
+    <string name="min">Min</string>
+    <string name="h">H</string>
+    <string name="del">Del</string>
+    <string name="rev">Rev</string>
+</resources>
